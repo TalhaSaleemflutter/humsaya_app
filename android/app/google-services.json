@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018596308939",
+    "project_id": "humsaya-app-e822e",
+    "storage_bucket": "humsaya-app-e822e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018596308939:android:be06fdd6aee01a31e8a84e",
+        "android_client_info": {
+          "package_name": "com.example.humsaya_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpSoXHpn2zGXTtN6Osgd5GeXWKHFSYL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
