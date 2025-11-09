@@ -1,6 +1,11 @@
 # humsaya_app
 
 A new Flutter project.
+Humsaya is a location-based marketplace app that allows users to buy and sell goods within their local area.
+It features real-time chat between buyers and sellers for smooth communication.
+Integrated with Google Places API to enable precise location search and discovery.
+Designed with a user-friendly interface for effortless listing and browsing of items.
+Built to promote community-driven trading and local connectivity.
 
 ## Getting Started
 
